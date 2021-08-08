@@ -1,0 +1,23 @@
+body{
+font: 3em sans-serif;
+align-items: center;
+text-align: center;
+padding: 20px auto;
+margin: 20px auto;
+}
+.input-class-ok{
+    width: 400px;
+    height: 100px;
+    margin: 20px auto;
+    border: 4px solid limegreen;
+    color: limegreen;
+    font: 1em sans-serif;
+}
+.input-class-error{
+    width: 400px;
+    height: 100px;
+    margin: 20px auto;
+    border: 4px solid crimson;
+    color: crimson;
+    font: 1em sans-serif;
+}
